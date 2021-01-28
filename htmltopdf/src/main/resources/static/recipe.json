@@ -1,0 +1,76 @@
+{
+  "country" : "Japan",
+  "name" : "Ramen",
+  "img" : "ramen.jpg",
+  "number" : "2 personnes",
+  "preparation" : "10 minutes",
+  "rest" : null,
+  "cooking" : "35 minutes",
+  "ingredients" : [
+    {
+      "quantities" : "2",
+      "label" : "filets de poulets avec la peau"
+    },
+    {
+      "quantities" : "15g",
+      "label" : "beurre doux"
+    },
+    {
+      "quantities" : "2 cuillères à café",
+      "label" : "huile de sésame"
+    },
+    {
+      "quantities" : "2 cuillères à café",
+      "label" : "gingembre haché"
+    },
+    {
+      "quantities" : "3 cuillères à café",
+      "label" : "ail haché"
+    },
+    {
+      "quantities" : "2 cuillères à soupe",
+      "label" : "sauce soja"
+    },
+    {
+      "quantities" : "2 cuillères à soupe",
+      "label" : "mirin"
+    },
+    {
+      "quantities" : "1L",
+      "label" : "bouillon de poulet"
+    },
+    {
+      "quantities" : "1 cuillères à café",
+      "label" : "sel de mer"
+    },
+    {
+      "quantities" : "2",
+      "label" : "oeufs"
+    },
+    {
+      "quantities" : "3",
+      "label" : "oignons vert émincé"
+    },
+    {
+      "quantities" : "2 paquets de 90g",
+      "label" : "ramen déshydraté"
+    }
+  ],
+  "steps" : [
+    {
+      "label" : "Préchauffez le four à 190°. Saupoudrez les filets de poulet avec le sel et le poivre, puis faites les revenir à la poêle avec le beurre coté peau pendant 5 minutes, jusqu’à ce que cette dernière soit dorée. Retournez les puis faites cuire pendant encore 5 minutes, puis enfournez les au four pendant 15 minutes."
+    },
+    {
+      "label" : "Pendant que le poulet cuit, faites chauffez l’huile dans une casserole. Ajoutez le gingembre et l’ail et faire revenir pendant 1 à 2 minutes pour bien les parfumer. Ajoutez la sauce soja et le mirin et faire cuire pendant 1 minutes. Versez le bouillon. Laissez mijoter pendant 15 minutes en ajoutant le sel de mer."
+    },
+    {
+      "label" : "Pendant que le bouillon cuit, préparez les oeufs. Versez de l’eau dans une casserole et portez à frémissement. Ajoutez les oeufs et faites cuire pendant 6 minutes. Mettez les immédiatement dans un bol d'eau froides pour stopper la cuisson, puis une fois refroidit écaillez les."
+    },
+    {
+      "label" : "Faites cuire les pâtes pendant 2 à 3 minutes."
+    },
+    {
+      "label" : "Quand le bouillon est prêt, répartissez les pâtes dans 2 bols, émincez les filets de poulet, puis répartissez les dans les bols. Ajoutez l’oignon vert. Passez le bouillon au chinois et versez le dans les bols. Ajoutez les oeufs en topping."
+    }
+  ]
+}
